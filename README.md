@@ -8,5 +8,5 @@
 
    The SDMS aims to enhance operational efficiency, streamline administrative processes, and improve overall data integrity by centralizing and automating data management tasks. Through robust validation and authentication mechanisms, the system ensures the security and reliability of stored information, thereby fostering a conducive environment for effective decision-making and academic planning. The development of the SDMS represents a significant step towards modernizing educational institutions' data management practices, offering a comprehensive solution tailored to meet the diverse needs of stakeholders in the education sector.
    
-# AUTHOUR
+# AUTHOR
   Developed by Akhil Kanvarsh & Udaya Harsha
